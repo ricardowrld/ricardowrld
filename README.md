@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Olá 👋! Meu nome é Ricardo.</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="200" src="https://64.media.tumblr.com/81b3c9a6fe4f72d6d455436ed50ff3f5/tumblr_mi53nm1V151rgrw53o4_r1_250.gifv"  />
+<img align="right" height="150" src="https://64.media.tumblr.com/81b3c9a6fe4f72d6d455436ed50ff3f5/tumblr_mi53nm1V151rgrw53o4_r1_250.gifv"  />
 
 ###
 
